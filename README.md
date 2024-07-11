@@ -21,3 +21,6 @@
 </div>
 
 <p style="color:#282c34;">i use arch btw</p>
+
+Weisheit von Frau Schwarz
+> Max ist ein Fisch.
