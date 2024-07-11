@@ -1,10 +1,11 @@
 ```c
+> githubfetch
                 ___
   ___======____=---=)
-/T            \_--===)                      Name: Max
-[ \ (0)   \~    \_-==)                      Occupation: Student
- \      / )J~~    \-=)                      Interests: Utilities and math
-  \\___/  )JJ~~~   \)                       Mostly programming in: Python and Rust                      
+/T            \_--===)                      Name: mmeiler
+[ \ (0)   \~    \_-==)                      Occupation: student
+ \      / )J~~    \-=)                      Interests: utilities and math
+  \\___/  )JJ~~~   \)                       Mostly programming in: python and rust                      
    \_____/JJJ~~~~    \
    / \  , \J~~~~~     \
   (-\)\=|\\\~~~~       L__
@@ -14,6 +15,7 @@
                       /J\JT\JJJJ)
                       (JJJ| \UUU)
                        (UU)
+> 
 ```
 <div style="display: inline-block">
   <img style="border-radius:25px;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mmeiler-dev&theme=github_dark" alt="Language Stats"/>
