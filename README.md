@@ -4,7 +4,7 @@
 /T            \_--===)                      Name: Max
 [ \ (0)   \~    \_-==)                      Occupation: Student
  \      / )J~~    \-=)                      Interests: Utilities and math
-  \\___/  )JJ~~~   \)                       
+  \\___/  )JJ~~~   \)                       Mostly programming in: Python and Rust                      
    \_____/JJJ~~~~    \
    / \  , \J~~~~~     \
   (-\)\=|\\\~~~~       L__
